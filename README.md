@@ -5,3 +5,5 @@ This Data Analysis Project aim to generate insight into the sales performance of
 
 ### Data Source
 Pivot Data: the primary dataset used for this analysis is the "pivot_data.csv" file, containing detailed information about each sale made by the company.
+
+### Tools Used

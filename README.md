@@ -49,7 +49,19 @@ WHERE CONDITION = TRUE
 
 ![Dashboard 4](https://github.com/user-attachments/assets/ef97f74b-b1b0-4156-bb02-9d2e251fd576)
 
+### Results/Findings
 
+The analysis results are summarised as follows;
+1. The company's recorded a rapid decline in revenue, with a noticeable peak during the holiday season.
+2. North East Region is the best-performing region in terms of unit sold on product.
+3. Dukku Stores with low sales should be targeted for marketing efforts.
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions;
+- Invest in marketing and promotion during peak sales seasons to maximize revenue
+- Focus on expanding and promoting products in North East region.
+- Implement a customer segmentation strategy to target stores in Dukku.
 
 
 

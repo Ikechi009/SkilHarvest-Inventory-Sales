@@ -13,3 +13,6 @@ Pivot Data: the primary dataset used for this analysis is the "pivot_data.csv" f
   2. It helped us to Pivot and analyse our Data.
 - Google Sheet
 - MS Power Bi
+  - Creating Reports
+
+   

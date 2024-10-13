@@ -24,5 +24,5 @@ In the initial phase of the Data cleaning and preparation, we performed the foll
  ### Exploratory Data Analysis
  EDA involved the exploring of the Data to answer some questions about the Data such as;
  - What is the overall sales trend?
- - Which Region are top sellers?
+ - Which product are top sellers?
  - What are the products on peak sales?

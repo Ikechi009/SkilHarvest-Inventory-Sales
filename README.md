@@ -33,3 +33,11 @@ Include some basic lines of code, queries or some of the DAX expressions used du
 SELECT  * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+
+![Pivot Table 1](https://github.com/user-attachments/assets/857e8107-bfaf-454b-9292-76f9be5cb0e8)
+
+![Pivot Table 2](https://github.com/user-attachments/assets/d6b4e3f0-1cfe-4bbb-bddc-ec08dd708f50)
+
+![Pivot Table 3](https://github.com/user-attachments/assets/2f60bdbd-ca54-4278-bd64-0417feb8c9d5)
+
+

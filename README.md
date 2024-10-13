@@ -43,8 +43,11 @@ WHERE CONDITION = TRUE
 
 ![Dashboard 1](https://github.com/user-attachments/assets/b166cbf9-b099-4c0e-b947-66753ed0be3b)
 
+![Dashboard  2](https://github.com/user-attachments/assets/70b76154-877b-402c-bab9-187d0bf25bd9)
 
+![Dashboard 3](https://github.com/user-attachments/assets/41abff81-1930-4e24-a883-8925cfb1e832)
 
+![Dashboard 4](https://github.com/user-attachments/assets/ef97f74b-b1b0-4156-bb02-9d2e251fd576)
 
 
 

@@ -41,3 +41,19 @@ WHERE CONDITION = TRUE
 ![Pivot Table 3](https://github.com/user-attachments/assets/2f60bdbd-ca54-4278-bd64-0417feb8c9d5)
 
 
+![Dashboard 1](https://github.com/user-attachments/assets/b166cbf9-b099-4c0e-b947-66753ed0be3b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -8,6 +8,6 @@ Pivot Data: the primary dataset used for this analysis is the "pivot_data.csv" f
 
 ### Tools Used
 
-- Ms Excel [Download here](https://microsoft.com}
+- Ms Excel [Download here](https://microsoft.com)
 - Google Sheet
 - MS Power Bi

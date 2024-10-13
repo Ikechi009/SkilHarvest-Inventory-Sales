@@ -25,4 +25,11 @@ In the initial phase of the Data cleaning and preparation, we performed the foll
  EDA involved the exploring of the Data to answer some questions about the Data such as;
  - What is the overall sales trend?
  - Which product are top sellers?
- - What are the products on peak sales?
+
+### Data Analysis
+Include some basic lines of code, queries or some of the DAX expressions used during our analysis;
+ 
+``` SQL
+SELECT  * FROM TABLE 1
+WHERE CONDITION = TRUE
+```

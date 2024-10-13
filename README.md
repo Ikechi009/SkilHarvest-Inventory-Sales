@@ -15,4 +15,14 @@ Pivot Data: the primary dataset used for this analysis is the "pivot_data.csv" f
 - MS Power Bi
   - Creating Reports
 
-   
+### Data Cleaning & Preparation
+In the initial phase of the Data cleaning and preparation, we performed the following tasks;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and Formating
+
+ ### Exploratory Data Analysis
+ EDA involved the exploring of the Data to answer some questions about the Data such as;
+ - What is the overall sales trend?
+ - Which Region are top sellers?
+ - What are the products on peak sales?

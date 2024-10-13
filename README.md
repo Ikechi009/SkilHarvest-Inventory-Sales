@@ -9,5 +9,7 @@ Pivot Data: the primary dataset used for this analysis is the "pivot_data.csv" f
 ### Tools Used
 
 - Ms Excel [Download here](https://microsoft.com)
+  1. This is majorly the tool used for our Analysis.
+  2. It helped us to Pivot and analyse our Data.
 - Google Sheet
 - MS Power Bi

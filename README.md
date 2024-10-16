@@ -53,6 +53,21 @@ WHERE CONDITION = TRUE
 ```
 ![PIVOT TABLE 1](https://github.com/user-attachments/assets/a4e451d0-c2ac-4d79-9ea4-54da9437e5dc)
 
+![PIVOT TABLE 2](https://github.com/user-attachments/assets/827475e7-6e79-494d-ae32-108007e0bf1e)
+
+![PIVOT TABLE 3](https://github.com/user-attachments/assets/b8ca9308-10c3-4e48-be93-2a915992a1de)
+
+![PIVOT TABLE 4](https://github.com/user-attachments/assets/2a156991-a971-4413-9357-6b219b2c7e89)
+
+![Dashboard 1](https://github.com/user-attachments/assets/5eca5212-531b-424d-bab1-3ec4c82ef2bc)
+
+![Dashboard 2](https://github.com/user-attachments/assets/9f7e41b2-5d52-40f1-934f-cd1a39d1c361)
+
+![Dashboard 3](https://github.com/user-attachments/assets/b6bb5421-1414-4928-8fd5-ee7c8543282d)
+
+![Dashboard 4](https://github.com/user-attachments/assets/532a1eab-43d7-4d93-8094-ceee6baec48d)
+
+
 
 
 ### Results
@@ -62,7 +77,8 @@ The analysis results are summarised as follows;
 2. North East Region is the best-performing region in terms of unit sold on product.
 3. Dukku Stores with low sales should be targeted for marketing efforts.
 
----
+---![PIVOT TABLE 2](https://github.com/user-attachments/assets/23d4c143-f6b9-40fa-b922-659ecfdb6a0d)
+
 ### Recommendations
 
 Based on the analysis, we recommend the following actions;

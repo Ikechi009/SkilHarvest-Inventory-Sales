@@ -51,23 +51,10 @@ Include some basic lines of code, queries or some of the DAX expressions used du
 SELECT  * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
-
-![Pivot Table 1](https://github.com/user-attachments/assets/857e8107-bfaf-454b-9292-76f9be5cb0e8)
-
-![Pivot Table 2](https://github.com/user-attachments/assets/d6b4e3f0-1cfe-4bbb-bddc-ec08dd708f50)
-
-![Pivot Table 3](https://github.com/user-attachments/assets/2f60bdbd-ca54-4278-bd64-0417feb8c9d5)
+![PIVOT TABLE 1](https://github.com/user-attachments/assets/a4e451d0-c2ac-4d79-9ea4-54da9437e5dc)
 
 
-![Dashboard 1](https://github.com/user-attachments/assets/b166cbf9-b099-4c0e-b947-66753ed0be3b)
 
-![Dashboard  2](https://github.com/user-attachments/assets/70b76154-877b-402c-bab9-187d0bf25bd9)
-
-![Dashboard 3](https://github.com/user-attachments/assets/41abff81-1930-4e24-a883-8925cfb1e832)
-
-![Dashboard 4](https://github.com/user-attachments/assets/ef97f74b-b1b0-4156-bb02-9d2e251fd576)
-
----
 ### Results
 
 The analysis results are summarised as follows;

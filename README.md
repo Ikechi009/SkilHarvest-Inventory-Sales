@@ -69,7 +69,6 @@ WHERE CONDITION = TRUE
 
 
 
-
 ### Results
 
 The analysis results are summarised as follows;
@@ -77,7 +76,6 @@ The analysis results are summarised as follows;
 2. North East Region is the best-performing region in terms of unit sold on product.
 3. Dukku Stores with low sales should be targeted for marketing efforts.
 
----![PIVOT TABLE 2](https://github.com/user-attachments/assets/23d4c143-f6b9-40fa-b922-659ecfdb6a0d)
 
 ### Recommendations
 
